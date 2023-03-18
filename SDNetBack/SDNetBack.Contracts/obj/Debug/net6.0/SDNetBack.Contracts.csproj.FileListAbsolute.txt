@@ -1,0 +1,12 @@
+/home/greenveggies/dev/SelfDirection/SDNetBack/SDNetBack.Contracts/bin/Debug/net6.0/SDNetBack.Contracts.deps.json
+/home/greenveggies/dev/SelfDirection/SDNetBack/SDNetBack.Contracts/bin/Debug/net6.0/SDNetBack.Contracts.dll
+/home/greenveggies/dev/SelfDirection/SDNetBack/SDNetBack.Contracts/bin/Debug/net6.0/SDNetBack.Contracts.pdb
+/home/greenveggies/dev/SelfDirection/SDNetBack/SDNetBack.Contracts/obj/Debug/net6.0/SDNetBack.Contracts.csproj.AssemblyReference.cache
+/home/greenveggies/dev/SelfDirection/SDNetBack/SDNetBack.Contracts/obj/Debug/net6.0/SDNetBack.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/greenveggies/dev/SelfDirection/SDNetBack/SDNetBack.Contracts/obj/Debug/net6.0/SDNetBack.Contracts.AssemblyInfoInputs.cache
+/home/greenveggies/dev/SelfDirection/SDNetBack/SDNetBack.Contracts/obj/Debug/net6.0/SDNetBack.Contracts.AssemblyInfo.cs
+/home/greenveggies/dev/SelfDirection/SDNetBack/SDNetBack.Contracts/obj/Debug/net6.0/SDNetBack.Contracts.csproj.CoreCompileInputs.cache
+/home/greenveggies/dev/SelfDirection/SDNetBack/SDNetBack.Contracts/obj/Debug/net6.0/SDNetBack.Contracts.dll
+/home/greenveggies/dev/SelfDirection/SDNetBack/SDNetBack.Contracts/obj/Debug/net6.0/refint/SDNetBack.Contracts.dll
+/home/greenveggies/dev/SelfDirection/SDNetBack/SDNetBack.Contracts/obj/Debug/net6.0/SDNetBack.Contracts.pdb
+/home/greenveggies/dev/SelfDirection/SDNetBack/SDNetBack.Contracts/obj/Debug/net6.0/ref/SDNetBack.Contracts.dll
